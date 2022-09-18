@@ -1,0 +1,1 @@
+# home-assistant-meteo-france-next-rain-card
