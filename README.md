@@ -37,8 +37,8 @@ Follow only one of these installation methods.
 
 Add the following lines to a view in '*cards:*' as a *'manual card'* or use your yaml configuration and add:
 
-		- type: 'custom:meteo-france-next-rain'
-			entity: sensor.CITY_next_rain
+    type: 'custom:meteo-france-next-rain'
+    entity: sensor.CITY_next_rain
 
 ## Options
 |option| default|description|
