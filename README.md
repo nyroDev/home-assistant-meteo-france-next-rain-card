@@ -6,6 +6,12 @@ A simple card to show next hour rain forecase from [Météo France weather integ
 
 The UI is very similar to what is shown on Météo France website: 1 slot for every 5 minutes slot.
 
+# Preview
+
+![Preview in light theme](preview_light.png)
+
+![Preview in dark theme](preview_dark.png)
+
 # Installation:
 Follow only one of these installation methods.
 
