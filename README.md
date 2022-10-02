@@ -18,9 +18,16 @@ Follow only one of these installation methods.
 <details>
   <summary><b>Installation and tracking with HACS:</b></summary>
 
-1. You can install this custom component by adding this repository (https://github.com/nyroDev/home-assistant-meteo-france-next-rain-card) to HACS in the settings menu of HACS first. You will find the custom component in the integration menu afterwards, look for 'Météo France Next Rain Card'.
-
-2. Set the lovelace panel
+1. Go to HACS panel
+2. Click on "Interface"
+3. Click on the menu at the top and choose "Custom Repository" in the menu
+4. Enter "https://github.com/nyroDev/home-assistant-meteo-france-next-rain-card" for repository field
+5. Choose "Lovelace" for category field
+6. Click "Add"
+7. Close the "Custom Repository" window
+8. Click on "Météo France Next Rain Card repository"
+9. Click on "Download" button at bottom
+10. Set the lovelace panel
 </details>
 
 <details>
